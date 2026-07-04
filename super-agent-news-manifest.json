@@ -1,0 +1,64 @@
+{
+  "citations": [
+    "[hostinger.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vbHJDXzZ6cS1oVU1raXJvN2d0X3VJNjAwdTRZaXQzZ0lRWUI2eEpPaGNvWWI4cVVHQjJtUDJMZVg2MW8tdHdrYTlScGVpNXhMS19YWXJ0Q1lhVmljRGVPUmktYXM?oc=5)",
+    "[builtin.com](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jYWNaWmszMlVfYy1RVENtRjN6TnZMM01BeE1SRkVCSGhSVnkzU3lhVkY2eE1xMEpkV055SGxrQU1vZzlubk40QU03VDhWVk1TU1UwS1J2NU84SlFXZkdWcQ?oc=5)",
+    "[startuphub.ai](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaXhpTGQ0TTBtd0N0SXhMTnhHVUt5ZFJPQ0lCbFRrQS1Nd3NOTEtqMS0xOHdBVGU0dXgwZzZCZEthWVY4QTkzQ0ZzbFZWSk9OZm9Dek05VExEWXYwbk8zWHFZVzVYMVhxZ0xRQU8xWXpuMEh3T2d4dHBlbHlwNHNjRVVsa2duTnFvd2x5X0Q0MTcwSDdXRzF6THIzd245enB4UnJGbkp5UGZKN0hCbjIwUVFYWFJuQQ?oc=5)",
+    "[memeburn.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wLWRhRElRRzRLcXFHUVFnUjFrM3RwaEZuODh4clhnWlBPXzM0a1czeFljaVVVOEdGc1RycVFyY1NscUJ0SnNtNzBQeW84VFFoOEZQQlZ4b3B6Zw?oc=5)",
+    "[techcrunch.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVWpuMUs0UGdVbG1OZ0RUUEtVRHRXS3hMTGhiUWFZNUZWQXRUZkcyQ24wQUVqdnhidTR5eW4tTmZnelEzSkQyOG83SVdvRUNQYkl4LTdoNlZJT0RSbEt0VThNTlJ6dmxIQU1yejdmWmZNOHNZdWNIbFRiVVBRTWpKU3RrQ3VKUXhOM2FGWmJxS09Mc01sSHU3MlhtYV9NXzJ1Q1E?oc=5)",
+    "[cnet.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWTBWd2xYNWNza3ZXZkdkTFVEZjlQbmdDTGtZYlRZeXNpN2k3ajhER1BZVG91cl9ESzh5ajlxeUgtbE5lLXFCRlZybWcyZDNaeHJYclQyREFqUlRlbXFhOXVzUzBYWmpCZzBIRU9qUzBoeE9pQmdfMUdpUFFVU1VsbDUtQXRNeHpIbWFoRmxFOGpQTS1aMDFCQjRRY2NCdjhIV0RIM1FjcFlBbnRTbVBv?oc=5)",
+    "[treasure.tools](https://treasure.tools/ai-css-generator)",
+    "[tools.jlvextension.com](https://tools.jlvextension.com/hero-section-generator/)"
+  ],
+  "design_plan": "rng=42;aida=pass;hero_math=1120px/2-3 lines;centered_layout=pass;actions_centered=pass;bento_density=grid-auto-flow:dense;labels_sweep=pass;contrast_check=pass;css_len>=4200=pass",
+  "generated_at": "2026-07-04T17:18:59.671516+00:00",
+  "headline": "AI agent to build websites \u2014 research, generate, deploy, and iterate with real computer use",
+  "site_brief": {
+    "audience": "founders, operators, and creators who want an AI agent to build and publish websites",
+    "canonical_url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'AI agent to build websites', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "AI agent build websites",
+      "AI website builder agent",
+      "AI agent GitHub deploy website",
+      "computer use AI website generation"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "ai-agent-build-websites",
+    "title": "AI agent to build websites",
+    "use_case_intent": "show how Super can research, generate, push to GitHub, publish, and iterate website assets with real computer-use workflows"
+  },
+  "summary": "An indexable use\u2011case page showing how Super acts as an AI agent that can build, publish, and iterate websites end\u2011to\u2011end using real computer use and a reusable computer-use cache. Includes concrete workflows, examples, fair competitor context, sources, FAQs, and sibling use\u2011case links."
+}
